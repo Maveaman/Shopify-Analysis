@@ -5,6 +5,7 @@
 This project showcases a self-developed, fully customized Power BI dashboard built to analyze Shopify sales performance and customer behavior. Created without reliance on any tutorials or YouTube guidance, the dashboard was designed from scratch to support strategic decision-making in e-commerce by transforming raw Shopify data into actionable insights.
 
 The goal was to provide a data-driven lens into key sales trends, customer retention metrics, and product performance to optimize online store growth and profitability.
+![Shopify 1](https://github.com/user-attachments/assets/b854565b-114d-4472-aa1a-9d4376e87ce1)
 
 ---
 
@@ -29,6 +30,7 @@ This dashboard can be used by:
 * **Consultants**: To demonstrate the power of data in crafting retail growth strategies.
 
 ---
+![Shopify 2](https://github.com/user-attachments/assets/acdda841-b594-4a04-8c29-aba1c384e830)
 
 ## ✅ Key Features
 
@@ -63,6 +65,7 @@ This dashboard can be used by:
    Segmented customer journeys to help tailor post-purchase engagement strategies.
 
 ---
+![Shopify 3](https://github.com/user-attachments/assets/7d7918b0-3d10-4dfd-bdab-696612bc0b6e)
 
 ## 📈 Business Benefits
 
@@ -73,6 +76,7 @@ This dashboard can be used by:
 * **Operational Agility**: Make faster decisions with real-time insights and automated reporting.
 
 ---
+![Shopify 4](https://github.com/user-attachments/assets/9a4cfc21-9350-4abb-b7a3-602e7d485bb0)
 
 ## 🛠️ Tools & Technologies
 
@@ -82,7 +86,8 @@ This dashboard can be used by:
 * **Shopify Transaction & Customer Dataset**
 * **Data Visualization Best Practices**
 
----
+---![Shopify 5](https://github.com/user-attachments/assets/058d5aa9-0a65-4a7e-b646-b25f8dcd249d)
+
 
 ## 📬 Contact
 
